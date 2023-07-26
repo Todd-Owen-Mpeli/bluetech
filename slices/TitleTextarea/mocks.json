@@ -1,0 +1,25 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "FieldContent",
+				"value": "tired",
+				"type": "Text"
+			},
+			"textarea": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Adipisicing laboris irure officia consequat commodo amet Lorem velit reprehenderit eiusmod esse fugiat irure commodo tempor."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
